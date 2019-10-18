@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="206.94063mm"
+   height="181.59164mm"
+   viewBox="0 0 206.94063 181.59164"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="FakeLogo_Inkscape.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="634.0788"
+     inkscape:cy="253.1653"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(64.235298,-64.463105)">
+    <g
+       id="g4512">
+      <text
+         id="text4487"
+         y="176.4256"
+         x="59.342258"
+         style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00a9ff;fill-opacity:1;stroke:#00008c;stroke-width:1.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#00a9ff;fill-opacity:1;stroke:#00008c;stroke-width:1.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="176.4256"
+           x="59.342258"
+           id="tspan4485"
+           sodipodi:role="line">Logo</tspan></text>
+      <path
+         inkscape:transform-center-y="-1.8131608e-006"
+         d="M 92.604164,226.69643 32.134655,168.3388 -0.823536,245.64295 19.480892,164.09601 -63.945559,174.20545 16.828379,151.01613 -33.639881,83.821428 26.829628,142.17905 59.787819,64.874902 39.483391,146.42184 122.90984,136.3124 42.135904,159.50172 Z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.3707162"
+         sodipodi:arg1="0.84711743"
+         sodipodi:r2="13.346124"
+         sodipodi:r1="95.32946"
+         sodipodi:cy="155.25893"
+         sodipodi:cx="29.482141"
+         sodipodi:sides="6"
+         id="path4491"
+         style="fill:#00a9ff;fill-opacity:1;stroke:#00008c;stroke-width:2.0999999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         inkscape:transform-center-x="4.2284585e-006"
+         transform="matrix(0.57134205,0.36292989,-0.36292989,0.57134205,135.89476,35.626286)"
+         inkscape:transform-center-y="-1.5315847e-006"
+         d="m 125.77703,212.30014 -14.21736,-13.72082 -7.74901,18.17546 4.7739,-19.17301 -19.614909,2.37689 18.991259,-5.45218 -11.865902,-15.79857 14.217362,13.72083 7.74901,-18.17546 -4.7739,19.17301 19.61491,-2.3769 -18.99127,5.45219 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.3707162"
+         sodipodi:arg1="0.84711743"
+         sodipodi:r2="3.1378903"
+         sodipodi:r1="22.413504"
+         sodipodi:cy="195.50403"
+         sodipodi:cx="110.93602"
+         sodipodi:sides="6"
+         id="path4491-1"
+         style="fill:#00a9ff;fill-opacity:1;stroke:#00008c;stroke-width:1.47739363;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
