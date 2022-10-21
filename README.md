@@ -9,5 +9,5 @@ The interface has changed considerably, but the largest change is how layers are
 
 If you need to use version 2.79 or earlier, use the 2017 workshop materials.
 
-For version 2.9x, the 2019 workshop materials still apply. New features have been added since 2.8, but the interface is similar enough.
+For versions 2.9x - 3.xx , the 2019 workshop materials still apply. Many new features have been added since 2.8, but the interface is similar enough.
 
